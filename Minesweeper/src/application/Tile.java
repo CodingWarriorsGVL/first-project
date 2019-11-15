@@ -8,6 +8,10 @@ package application;
  *
  */
 public class Tile {
+
+	public Tile() {
+		
+	}
   
   //Constructor
   
